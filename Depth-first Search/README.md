@@ -2,4 +2,4 @@
 
 > 深度搜索
 
-* [minimun-depth-of-binary-tree](minimun-depth-of-binary-tree.md)
+* [minimun-depth-of-binary-tree](minimum-depth-of-binary-tree.md)
