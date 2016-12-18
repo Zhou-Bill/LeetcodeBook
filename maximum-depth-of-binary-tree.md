@@ -42,7 +42,7 @@ int main()
 {
 	Solution solution;
 	TreeNode *T, *N;
-	int data[] = { 1, 2, 3, 4, 5 }, data2[] = { 1, 2, 3, 4, 5 };
+	int data[] = { 1, 2, 3, 4, 5 };
 	solution.createTree(T, data, 5, 0);
 	solution.maxDepth(T);
 }
