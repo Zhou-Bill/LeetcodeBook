@@ -3,10 +3,10 @@
 * [Introduction](README.md)
 * [前言](前言.md)
 * [目前收录的题目](目前收录的题目.md)
-    * [Two Pointer]
+    * Two Pointer
         * [题型总结](Two Pointers/README.md)
         * [merge-sorted-array](Two Pointers/merge-sorted-array.md)
-    * [Depth-first Search](depth-first-search.md)
+    * Depth-first Search
         * [题型总结](Depth-first Search/README.md)
         * [minimun-depth-of-binary-tree](Depth-first Search/minimum-depth-of-binary-tree.md)
         * [maximum-depth-of-binary-tree](Depth-first Search/maximum-depth-of-binary-tree.md)
