@@ -11,7 +11,8 @@
         * [path-sum](Depth-first Search/path-sum.md)
         * [symmetric-tree](Depth-first Search/symmetric-tree.md) 未完成
 
-
+    * Bit Manipulation
+        * [pow-of-two](Bit Manipulation/pow-of-two.md)
 
 
 
