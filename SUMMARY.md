@@ -15,6 +15,6 @@
     * Bit Manipulation
         * [题型总结](Bit Manipulation/README.md)
         * [pow-of-two](Bit Manipulation/pow-of-two.md)
-    * [Hash Table](hash-table.md)
-        * [Valid Sudoku](valid-sudoku.md)
+    * [Hash Table](Hash Table/hash-table.md)
+        * [Valid Sudoku](Hash Table/valid-sudoku.md)
 
