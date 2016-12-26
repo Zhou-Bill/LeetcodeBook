@@ -17,4 +17,6 @@
         * [pow-of-two](Bit Manipulation/pow-of-two.md)
     * [Hash Table](Hash Table/hash-table.md)
         * [Valid Sudoku](Hash Table/valid-sudoku.md)
+    * Breadth-first Search
+        * [Binary Tree Level Order Traversal](binary-tree-level-order-traversal.md)
 
