@@ -19,4 +19,6 @@
         * [Valid Sudoku](Hash Table/valid-sudoku.md)
     * Breadth-first Search
         * [Binary Tree Level Order Traversal](Breadth-first Search/Binary Tree Level Order Traversal.md)
+    * [Dynamic Programming](dynamic-programming.md)
+        * [Jump Game](jump-game.md)
 
