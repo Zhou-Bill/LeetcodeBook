@@ -24,3 +24,6 @@ public:
 	}
 };
 ```
+
+* **local** 表示局部最优解，即当前**nums[i]**与**local + nums[i]**
+* global 表示全局最优解
