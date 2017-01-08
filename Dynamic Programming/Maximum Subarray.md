@@ -7,6 +7,8 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 
 这道题是经典的动态规划题，可以用**全局最优**与**局部最优解** 做
 
+全局最优，就是到当前元素为止最优的解是，一个是局部最优，就是必须包含当前元素的最优的解。
+
 ```
 class Solution {
 public:
@@ -26,4 +28,5 @@ public:
 ```
 
 * **local** 表示局部最优解，即当前**nums[i]**与**local + nums[i]**
+* 如果 **local** 为负数，那么还不如不要，直接去 nums[i]
 * global 表示全局最优解
