@@ -22,4 +22,6 @@
     * [Dynamic Programming](dynamic-programming.md)
         * [Jump Game](Dynamic Programming/Jump Game.md)
         * [Maximum Subarray](Dynamic Programming/Maximum Subarray.md)
+    * [Tree](tree.md)
+        * [Invert Binary Tree](invert-binary-tree.md)
 
