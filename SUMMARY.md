@@ -28,5 +28,5 @@
         * [maximum-depth-of-binary-tree](Depth-first Search/maximum-depth-of-binary-tree.md)
         * [path-sum](Depth-first Search/path-sum.md)
         * [symmetric-tree](Depth-first Search/symmetric-tree.md)
-        * Path Sum III
+        * [Path Sum III](Tree/tree.md)
 
