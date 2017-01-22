@@ -29,5 +29,5 @@
         * [path-sum](Depth-first Search/path-sum.md)
         * [symmetric-tree](Depth-first Search/symmetric-tree.md)
         * [Path Sum III](Tree/Path Sum III.md)
-        * [Sum of Left Leaves](sum-of-left-leaves.md)
+        * [Sum of Left Leaves](Tree/sum-of-left-leaves.md)
 
