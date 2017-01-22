@@ -30,4 +30,5 @@
         * [symmetric-tree](Depth-first Search/symmetric-tree.md)
         * [Path Sum III](Tree/Path Sum III.md)
         * [Sum of Left Leaves](Tree/sum-of-left-leaves.md)
+        * [Balanced Binary Tree](balanced-binary-tree.md)
 
